@@ -2,8 +2,6 @@ from multiprocessing import Process
 import cv2
 import sounddevice as sd
 from scipy.io.wavfile import write
-import pyaudio
-import wave
 
 
 def func1():
